@@ -1,0 +1,12 @@
+SIMPLE INSTRUCTIONS
+- download everything to one folder
+- install latest available python 2.7 release
+- install numpy using a command like (replace python27 folder according to your installation)
+  c:\python27\python.exe -m pip install pyusb numpy
+
+now you should be able to use Antifier.bat and PowerCurve.bat
+
+BEFORE YOU USE THE SCRIPTS:
+- connect two ant+ USB dongles and the tacx head unit/usb interface to your computer
+- make sure the tacx is powered!
+
