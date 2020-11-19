@@ -116,6 +116,7 @@ def parse_factors(filename):
   temp = open(filename,'r').read().split('\n')
   rtn ={}
   for l in temp:
+    if ("=" in l): continue
     l=l.split("#")#get rid of comments
     l=l[0].split(":")
     if len(l)==2:

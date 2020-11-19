@@ -20,7 +20,7 @@ import argparse
 if os.name == 'posix':
   import serial
 
-customName = "power_calc_factors_custom2.Flow.txt"
+customName = "power_calc_factors_custom.Flow.txt"
 
 #powerfactor = 1
 #debug = False
