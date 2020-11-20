@@ -1,0 +1,16 @@
+usergrademode = True
+#grade:multiplier,additional
+-3.7: 5.3065,	 -29.3480 #res level 0
+-3.4: 5.6008,	 -33.1000 #res level 1
+-2.5: 5.9874,	 -37.0000 #res level 2
+-1.9: 6.6848,	 -43.8130 #res level 3
+-0.7: 7.5043,	 -51.6000 #res level 4
+0.5:  8.45,	 -59.1000 #res level 5
+1.4:  9.3906,	 -65.5000 #res level 6
+2.9:  10.46,	 -73.1000 #res level 7
+4.0:  11.751,	 -80.1000 #res level 8
+5.6:  13.015,	 -86.5080 #res level 9
+7.4:  14.20,	 -94.3000 #res level 10   
+8.6:  15.3,	-102.4900 #res level 11
+9.8:  16.55,	-112.0000 #res level 12
+11.0: 17.763,	-124.1000 #res level 13
